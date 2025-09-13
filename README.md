@@ -4,22 +4,19 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Table of contents
 
-- [Frontend Mentor - Profile card component solution](#frontend-mentor---profile-card-component-solution)
-  - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
-    - [The challenge](#the-challenge)
-    - [Screenshot](#screenshot)
-      - [Mobile view](#mobile-view)
-      - [Desktop view](#desktop-view)
-    - [Links](#links)
-  - [My process](#my-process)
-    - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
-    - [Continued development](#continued-development)
-    - [Useful resources](#useful-resources)
-  - [Author](#author)
-  - [Acknowledgments](#acknowledgments)
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -29,53 +26,83 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-#### Mobile view
-![](./sources/screenshots/Moile%20view.png)
+![](./screenshot.jpg)
 
-#### Desktop view
-![](./sources/screenshots/Desktop%20view.html.png)
+Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+
+Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+
+Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+
+**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Solution URL: [Profile card using HTML and CSS (Sass)](https://www.frontendmentor.io/solutions/profile-card-using-html-and-css-sass-Kjyr8Ubgo6)
-- Live Site URL: [Frontend Mentor | Profile card component](https://vangmanawkairung.github.io/Frontend-Mentor_profile-card-component/)
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties (Variables)
+- CSS custom properties
 - Flexbox
-- Media Queries
+- CSS Grid
 - Mobile-first workflow
-- Background Images and Patterns
-- CSS Preprocessor (SCSS)
-- Box Shadow and Border Radius
-- Responsive Units
-- Linking External Fonts
+- [React](https://reactjs.org/) - JS library
+- [Next.js](https://nextjs.org/) - React framework
+- [Styled Components](https://styled-components.com/) - For styles
+
+**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-From this challenge, I've gained a deeper understanding of using semantic HTML5 to structure content effectively, which enhances accessibility and SEO. I've learned to utilize SCSS for more organized and maintainable styles through variables and nesting. Implementing Flexbox has taught me how to create responsive layouts that adapt well to different screen sizes. I also improved my skills in responsive design by applying media queries and utilizing CSS custom properties to maintain consistency in design. Overall, this project has strengthened my ability to create visually appealing and functional web components while following best practices in modern web development.
+Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+
+To see how you can add code snippets, see below:
+
+```html
+<h1>Some HTML code I'm proud of</h1>
+```
+```css
+.proud-of-this-css {
+  color: papayawhip;
+}
+```
+```js
+const proudOfThisFunc = () => {
+  console.log('🎉')
+}
+```
+
+If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+
+**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
-Building on this challenge, I can continue developing my skills in responsive design by exploring CSS Grid, which will allow me to create more complex layouts with ease. I can also enhance my understanding of accessibility practices to ensure my web components are usable for everyone, including those with disabilities. Additionally, I can experiment with advanced SCSS features, such as mixins and functions, to further streamline my styles and reduce redundancy. Furthermore, diving into JavaScript could add interactivity to my components, making them more engaging for users. Overall, this challenge has opened up several avenues for further growth in front-end development.
+Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+
+**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
-- [background-size](https://developer.mozilla.org/en-US/docs/Web/CSS/background-size) - This resource explains how to effectively use the `background-size` property, covering both basic and advanced applications.
-- [background-position-x](https://developer.mozilla.org/en-US/docs/Web/CSS/background-position-x) - This documentation details the `background-position-x` property, guiding users on how to align background images properly.
-- [CSS Multiple Backgrounds](https://www.w3schools.com/css/css3_backgrounds.asp) - This article introduces the capability of the `background-image` property to support multiple images, broadening design possibilities.
-- [Positioning Offset Background Images](https://css-tricks.com/positioning-offset-background-images/) - This guide offers insights on how to reposition background images for enhanced layout control.
+- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
+**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
-- Frontend Mentor - [@VangmanawKairung](https://www.frontendmentor.io/profile/VangmanawKairung)
-- GitHub - [Kairung Vangmanaw](https://github.com/VangmanawKairung)
+- Website - [Add your name here](https://www.your-site.com)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+
+**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
-I would like to express my sincere gratitude to Frontend Mentor for providing this challenge, which has significantly enhanced my front-end development skills. The detailed project brief and design specifications were instrumental in guiding my work and helping me understand best practices in UI design. I also want to acknowledge the powerful tools I utilized throughout this process, including Visual Studio Code, which provided an efficient coding environment, and the various extensions that streamlined my workflow. Resources such as CSS tricks and MDN Web Docs were invaluable for deepening my understanding of CSS and HTML. This challenge has not only sharpened my technical skills but also encouraged me to explore and leverage various tools and resources in my development journey. Thank you for facilitating such a rewarding learning experience!
+This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+
+**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
