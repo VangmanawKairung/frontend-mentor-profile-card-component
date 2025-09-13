@@ -145,14 +145,23 @@
         }
       }
 
+      footer,
+      footer a {
+        font-size: 10px;
+      }
+
       footer {
-        display: none;
-        font-size: 11px;
         text-align: center;
+
+        position: absolute;
+        left: 50%;
+        bottom: 10px;
+        translate: -50% -50%;
+        color: var(--gray-100);
       }
 
       footer a {
-        color: hsl(228, 45%, 44%);
+        color: var(--gray-100);
       }
 
       @media (min-width: 1440px) {
@@ -228,9 +237,12 @@
       </main>
       <footer class="attribution">
         Challenge by
-        <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+        <a
+          href="https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ"
+          target="_blank"
           >Frontend Mentor</a
-        >. Coded by
+        >.<br />
+        Coded by
         <a
           href="https://github.com/VangmanawKairung/frontend-mentor-profile-card-component"
           >Kariung Vangmanaw</a
